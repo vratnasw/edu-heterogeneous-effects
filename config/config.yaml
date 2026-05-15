@@ -1,0 +1,14 @@
+# config.yaml -- Heterogeneous treatment effect + interpretability models — causal forest, double ML, SHAP, counterfactuals, BMA. Models 13/14/22/23/35.
+
+r2:
+  bucket: edu-research-data
+  master_panel_key: processed/joined/master_panel.parquet
+
+training:
+  train_years: [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
+  val_years: [2023, 2024]
+
+data:
+  master_panel: processed/joined/master_panel.parquet
+  gnn_embeddings: ../edu-gnn/results/embeddings/layer4_embeddings.parquet
+  anchor_effects: ../edu-causal-rl/results/interventional/anchor_effects.json
