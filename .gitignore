@@ -20,6 +20,7 @@ env/
 
 # Local data caches (regenerable)
 data_cache/
+results/_cache/
 
 # Secrets
 .env

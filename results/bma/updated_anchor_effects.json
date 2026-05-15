@@ -1,0 +1,10 @@
+{
+  "outcome": "caaspp_math_met_pct",
+  "bma_anchor": -10.21427538896296,
+  "bma_hdi_95": [
+    -11.457617805712298,
+    -8.90103156883621
+  ],
+  "replaces": 0.5874855926954256,
+  "reason": "BMA posterior mean differs from current Layer-2 anchor by >10% (relative)."
+}

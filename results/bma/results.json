@@ -1,0 +1,58 @@
+{
+  "outcome": "caaspp_math_met_pct",
+  "posterior_mean": -10.21427538896296,
+  "posterior_hdi": [
+    -11.457617805712298,
+    -8.90103156883621
+  ],
+  "posterior_n_draws": 1000,
+  "individual_estimates": {
+    "RD": {
+      "mean": 0.5874855926954256,
+      "se": 1.8941588267160283
+    },
+    "DML": {
+      "mean": -3.054130548096187,
+      "se": 1.2423127521175508
+    },
+    "CausalForest": {
+      "mean": -15.887478211508816,
+      "se": 0.8428090338566232
+    }
+  },
+  "current_anchor": 0.5874855926954256,
+  "rel_diff_vs_anchor": 18.386427030659835,
+  "anchor_should_update": true,
+  "sampling": {
+    "draws": 500,
+    "tune": 200,
+    "chains": 2
+  },
+  "diagnostics": {
+    "sources": {
+      "RD": {
+        "path": "C:\\Users\\visha\\Downloads\\r_and_d\\edu-causal-rl\\results\\interventional\\summary.json",
+        "loaded": true,
+        "anchor": 0.5874855926954256,
+        "ate_se": 1.8941588267160283
+      },
+      "DiD": {
+        "loaded": false,
+        "note": "no DiD anchor in Layer-2 summary"
+      },
+      "DML": {
+        "path": "C:\\Users\\visha\\Downloads\\r_and_d\\edu-heterogeneous-effects\\results\\double_ml\\results.json",
+        "loaded": true,
+        "coef": -3.054130548096187,
+        "se": 1.2423127521175508
+      },
+      "CausalForest": {
+        "path": "C:\\Users\\visha\\Downloads\\r_and_d\\edu-heterogeneous-effects\\results\\causal_forest\\caaspp_math_met_pct.json",
+        "loaded": true,
+        "mean_cate": -15.887478211508816,
+        "se_derived": 0.8428090338566232
+      }
+    },
+    "rd_anchor_current": 0.5874855926954256
+  }
+}

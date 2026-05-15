@@ -1,0 +1,79 @@
+{
+  "outcome": "caaspp_ela_met_pct",
+  "n_observations": 1259,
+  "n_districts": 178,
+  "mean_cate": -13.797601355441474,
+  "cate_std": 8.799728384542927,
+  "cate_quartiles": {
+    "q1": -19.293382261324304,
+    "q2": -14.007581348655165,
+    "q3": -7.31154750378834,
+    "q4": 8.023166743027005
+  },
+  "blp_f_stat": 72.21163117483945,
+  "blp_r2": 0.638222226581046,
+  "archetype_by_quartile": {
+    "q1": {
+      "a0": 7,
+      "a1": 1,
+      "a2": 22,
+      "a3": 8,
+      "a4": 7
+    },
+    "q2": {
+      "a0": 6,
+      "a1": 3,
+      "a2": 4,
+      "a3": 15,
+      "a4": 16
+    },
+    "q3": {
+      "a0": 13,
+      "a1": 12,
+      "a2": 4,
+      "a3": 4,
+      "a4": 11
+    },
+    "q4": {
+      "a0": 11,
+      "a1": 14,
+      "a2": 1,
+      "a3": 8,
+      "a4": 11
+    }
+  },
+  "n_estimators": 80,
+  "fit_seconds": 0.4,
+  "x_cols": [
+    "bea_gdp_total",
+    "kd_health_injury_youth_suicide_and_self_inflicted_injury_mean",
+    "kd_health_deaths_suicide_and_self_inflicted_injury_mean",
+    "kd_health_deaths_child_population_age_mean",
+    "kd_health_status_child_care_spaces_mean",
+    "kidsdata_school_safety_school_climate_mean",
+    "census_acs5_median_household_income",
+    "kd_econ_homeless_wic_participant_mean",
+    "kd_econ_food_wic_participant_mean",
+    "kd_econ_income_wic_participant_mean",
+    "kd_health_nutrition_wic_participant_mean",
+    "kd_covid_family_wic_participant_mean",
+    "kd_econ_unemploy_wic_participant_mean",
+    "kd_econ_housing_wic_participant_mean",
+    "census_saipe_pop_5_17",
+    "enrollment",
+    "kd_env_air_asthma_mean",
+    "kd_health_hospital_asthma_mean",
+    "pct_frl",
+    "census_saipe_n_poverty",
+    "pct_ell",
+    "calenviroscreen_tox_releases",
+    "kd_health_status_child_care_facilities_mean",
+    "calenviroscreen_pesticides",
+    "kd_shcn_chars_injury_hospitalizations_mean",
+    "kd_health_injury_injury_hospitalizations_mean",
+    "kd_health_hospital_injury_hospitalizations_mean",
+    "kd_health_deaths_injury_hospitalizations_mean",
+    "kd_health_healthcare_injury_hospitalizations_mean",
+    "kidsdata_ipv_foster_in_care_placement_mean"
+  ]
+}

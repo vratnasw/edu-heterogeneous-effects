@@ -1,0 +1,36 @@
+{
+  "generated_at": "2026-05-15T19:16:20.590164+00:00",
+  "fast": true,
+  "errors": {},
+  "causal_forest": {
+    "math_mean_cate": -15.887478211508816,
+    "math_blp_f": 55.20500037563456,
+    "math_blp_r2": 0.5744238089575061
+  },
+  "double_ml": {
+    "dml_coef": -3.054130548096187,
+    "rd_anchor": 0.5874855926954256,
+    "agreement_z": -1.6076281350942878,
+    "within_2se": true
+  },
+  "shap": {
+    "archetype_0": "census_acs5_median_household_income",
+    "archetype_1": "enrollment",
+    "archetype_2": "pct_frl",
+    "archetype_3": "pct_frl",
+    "archetype_4": "pct_frl"
+  },
+  "counterfactuals": {
+    "n_near_boundary_analyzed": 5,
+    "mean_action_norm": 1.036253273487091,
+    "mean_predicted_gain": 0.9999239206314087
+  },
+  "bma": {
+    "posterior_mean": -10.21427538896296,
+    "posterior_hdi": [
+      -11.457617805712298,
+      -8.90103156883621
+    ],
+    "anchor_should_update": true
+  }
+}
