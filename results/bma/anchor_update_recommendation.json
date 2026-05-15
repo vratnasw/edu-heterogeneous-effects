@@ -1,0 +1,8 @@
+{
+  "update_recommended": false,
+  "reason": "Original BMA posterior of -10.21 was driven by unit-incompatible inputs: DML used a different treatment (log per-pupil spending proxy), CausalForest used a binary indicator that captures cross-sectional poverty confounding rather than LCFF causal effect. The RD anchor of +0.587 (SE 1.89) remains the best single causal estimate for math proficiency response to LCFF concentration grant dose.",
+  "old_anchor": 0.5875,
+  "proposed_new_anchor": 0.5875,
+  "confidence": "high",
+  "action_required": "Do NOT push updated_anchor_effects.json to edu-causal-rl. Leave Layer 2 anchors unchanged. In edu-heterogeneous-effects, retire bayesian_averaging.py from the master run script until either (a) per-pupil expenditure data is added so DML estimates the same parameter as RD, or (b) the BMA is rewritten to combine only causal estimates with identical estimands. The current implementation produces invalid output."
+}
