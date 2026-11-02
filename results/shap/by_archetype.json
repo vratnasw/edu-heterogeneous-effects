@@ -30,211 +30,211 @@
     "archetype_0": [
       {
         "feature": "census_acs5_median_household_income",
-        "mean_abs_shap": 4.654377345698481
-      },
-      {
-        "feature": "census_saipe_pop_5_17",
-        "mean_abs_shap": 2.3794573884510415
+        "mean_abs_shap": 4.894437538879722
       },
       {
         "feature": "census_saipe_n_poverty",
-        "mean_abs_shap": 2.300883297032359
+        "mean_abs_shap": 2.2880681607253615
+      },
+      {
+        "feature": "census_saipe_pop_5_17",
+        "mean_abs_shap": 2.266682767938058
       },
       {
         "feature": "bea_gdp_total",
-        "mean_abs_shap": 1.7726187464009602
+        "mean_abs_shap": 1.833055526127874
       },
       {
         "feature": "kd_econ_homeless_wic_participant_mean",
-        "mean_abs_shap": 1.5511097563562342
+        "mean_abs_shap": 1.4515678780078607
       },
       {
         "feature": "enrollment",
-        "mean_abs_shap": 1.3378775698456167
+        "mean_abs_shap": 1.3887794074604916
       },
       {
         "feature": "kd_health_deaths_child_population_age_mean",
-        "mean_abs_shap": 0.7423057024616633
-      },
-      {
-        "feature": "kd_health_hospital_asthma_mean",
-        "mean_abs_shap": 0.7240199950172157
+        "mean_abs_shap": 0.7768588359506609
       },
       {
         "feature": "pct_frl",
-        "mean_abs_shap": 0.7064867642539395
+        "mean_abs_shap": 0.7356062776965266
+      },
+      {
+        "feature": "kd_health_hospital_asthma_mean",
+        "mean_abs_shap": 0.7314528885873751
       },
       {
         "feature": "kidsdata_school_safety_school_climate_mean",
-        "mean_abs_shap": 0.24873352510191107
+        "mean_abs_shap": 0.14486089720977144
       }
     ],
     "archetype_1": [
       {
         "feature": "enrollment",
-        "mean_abs_shap": 4.4743981121624525
+        "mean_abs_shap": 4.48565580214504
       },
       {
         "feature": "kd_health_deaths_child_population_age_mean",
-        "mean_abs_shap": 2.7060657962805537
+        "mean_abs_shap": 2.7180765740396717
       },
       {
         "feature": "census_saipe_pop_5_17",
-        "mean_abs_shap": 2.1884920233183336
+        "mean_abs_shap": 2.240562321421736
       },
       {
         "feature": "pct_frl",
-        "mean_abs_shap": 1.7454579556181127
+        "mean_abs_shap": 1.6863704436225238
       },
       {
         "feature": "bea_gdp_total",
-        "mean_abs_shap": 1.3982464686825704
+        "mean_abs_shap": 1.3417841376130313
       },
       {
         "feature": "census_saipe_n_poverty",
-        "mean_abs_shap": 0.7036429941345801
+        "mean_abs_shap": 0.7795507805834025
       },
       {
         "feature": "kd_econ_homeless_wic_participant_mean",
-        "mean_abs_shap": 0.6246274392080926
+        "mean_abs_shap": 0.6749146528677396
       },
       {
         "feature": "census_acs5_median_household_income",
-        "mean_abs_shap": 0.6165213194711019
+        "mean_abs_shap": 0.5564652588403536
       },
       {
         "feature": "kd_health_hospital_asthma_mean",
-        "mean_abs_shap": 0.548496454357622
+        "mean_abs_shap": 0.5407595675026752
       },
       {
         "feature": "kidsdata_school_safety_school_climate_mean",
-        "mean_abs_shap": 0.34251440743781403
+        "mean_abs_shap": 0.33794661120596625
       }
     ],
     "archetype_2": [
       {
         "feature": "pct_frl",
-        "mean_abs_shap": 15.151115435591043
+        "mean_abs_shap": 15.182856409675122
       },
       {
         "feature": "enrollment",
-        "mean_abs_shap": 3.108381536312278
+        "mean_abs_shap": 3.205553173150444
       },
       {
         "feature": "census_acs5_median_household_income",
-        "mean_abs_shap": 2.545525415936329
+        "mean_abs_shap": 2.4922559416237062
       },
       {
         "feature": "bea_gdp_total",
-        "mean_abs_shap": 0.9093818334905585
+        "mean_abs_shap": 0.9544050828537503
       },
       {
         "feature": "census_saipe_pop_5_17",
-        "mean_abs_shap": 0.708352946050322
+        "mean_abs_shap": 0.6968469536197233
       },
       {
         "feature": "kd_econ_homeless_wic_participant_mean",
-        "mean_abs_shap": 0.37237126500761636
+        "mean_abs_shap": 0.4571592567629115
       },
       {
         "feature": "census_saipe_n_poverty",
-        "mean_abs_shap": 0.27229366086512913
+        "mean_abs_shap": 0.3668355526120962
       },
       {
         "feature": "kidsdata_school_safety_school_climate_mean",
-        "mean_abs_shap": 0.26184662014505605
-      },
-      {
-        "feature": "kd_health_hospital_asthma_mean",
-        "mean_abs_shap": 0.1525262638730766
+        "mean_abs_shap": 0.23122636248249204
       },
       {
         "feature": "kd_health_deaths_child_population_age_mean",
-        "mean_abs_shap": 0.13599480927687127
+        "mean_abs_shap": 0.12955228144719347
+      },
+      {
+        "feature": "kd_health_injury_youth_suicide_and_self_inflicted_injury_mean",
+        "mean_abs_shap": 0.09068917913371274
       }
     ],
     "archetype_3": [
       {
         "feature": "pct_frl",
-        "mean_abs_shap": 9.242796872171
+        "mean_abs_shap": 9.321891480731836
       },
       {
         "feature": "census_saipe_n_poverty",
-        "mean_abs_shap": 2.867609039626507
+        "mean_abs_shap": 2.772320341488008
       },
       {
         "feature": "enrollment",
-        "mean_abs_shap": 2.2164976658791047
+        "mean_abs_shap": 2.20222881618661
       },
       {
         "feature": "kd_health_hospital_asthma_mean",
-        "mean_abs_shap": 1.9069872795266558
+        "mean_abs_shap": 1.9274004156745366
       },
       {
         "feature": "kidsdata_school_safety_school_climate_mean",
-        "mean_abs_shap": 1.6632966134783533
+        "mean_abs_shap": 1.7767482916620405
       },
       {
         "feature": "census_saipe_pop_5_17",
-        "mean_abs_shap": 0.9986568024071893
+        "mean_abs_shap": 0.9725935803766579
       },
       {
         "feature": "census_acs5_median_household_income",
-        "mean_abs_shap": 0.5368837959843381
+        "mean_abs_shap": 0.5933797524097132
       },
       {
         "feature": "kd_health_deaths_child_population_age_mean",
-        "mean_abs_shap": 0.2935634163394783
+        "mean_abs_shap": 0.33758776526719825
+      },
+      {
+        "feature": "kd_econ_unemploy_wic_participant_mean",
+        "mean_abs_shap": 0.14319457380748873
       },
       {
         "feature": "kd_econ_homeless_wic_participant_mean",
-        "mean_abs_shap": 0.15258307217900507
-      },
-      {
-        "feature": "bea_gdp_total",
-        "mean_abs_shap": 0.14963208528045124
+        "mean_abs_shap": 0.13232755910820918
       }
     ],
     "archetype_4": [
       {
         "feature": "pct_frl",
-        "mean_abs_shap": 5.103260255945215
+        "mean_abs_shap": 5.066645622908355
       },
       {
         "feature": "census_saipe_n_poverty",
-        "mean_abs_shap": 2.968154324115911
+        "mean_abs_shap": 3.0195830003853246
       },
       {
         "feature": "census_acs5_median_household_income",
-        "mean_abs_shap": 2.6315282678345002
+        "mean_abs_shap": 2.6788050871644233
       },
       {
         "feature": "kd_econ_homeless_wic_participant_mean",
-        "mean_abs_shap": 1.8065261213175492
+        "mean_abs_shap": 1.8464513148022559
       },
       {
         "feature": "kd_health_hospital_asthma_mean",
-        "mean_abs_shap": 1.5781560685960505
+        "mean_abs_shap": 1.561208614793596
       },
       {
         "feature": "census_saipe_pop_5_17",
-        "mean_abs_shap": 1.1552088550004118
+        "mean_abs_shap": 1.087201159385009
       },
       {
         "feature": "kd_health_deaths_child_population_age_mean",
-        "mean_abs_shap": 0.6097699627225096
+        "mean_abs_shap": 0.5716950022706729
       },
       {
         "feature": "bea_gdp_total",
-        "mean_abs_shap": 0.41778305501861573
+        "mean_abs_shap": 0.4125435187410367
       },
       {
         "feature": "enrollment",
-        "mean_abs_shap": 0.3668156339095992
+        "mean_abs_shap": 0.38895429047473074
       },
       {
         "feature": "kidsdata_school_safety_school_climate_mean",
-        "mean_abs_shap": 0.24123873682795777
+        "mean_abs_shap": 0.1841521563151011
       }
     ]
   },
@@ -242,47 +242,47 @@
     "archetype_0": {
       "n_districts": 37,
       "n_observations": 268,
-      "shap_seconds": 1.1,
+      "shap_seconds": 0.3,
       "top10": [
         {
           "feature": "census_acs5_median_household_income",
-          "mean_abs_shap": 4.654377345698481
-        },
-        {
-          "feature": "census_saipe_pop_5_17",
-          "mean_abs_shap": 2.3794573884510415
+          "mean_abs_shap": 4.894437538879722
         },
         {
           "feature": "census_saipe_n_poverty",
-          "mean_abs_shap": 2.300883297032359
+          "mean_abs_shap": 2.2880681607253615
+        },
+        {
+          "feature": "census_saipe_pop_5_17",
+          "mean_abs_shap": 2.266682767938058
         },
         {
           "feature": "bea_gdp_total",
-          "mean_abs_shap": 1.7726187464009602
+          "mean_abs_shap": 1.833055526127874
         },
         {
           "feature": "kd_econ_homeless_wic_participant_mean",
-          "mean_abs_shap": 1.5511097563562342
+          "mean_abs_shap": 1.4515678780078607
         },
         {
           "feature": "enrollment",
-          "mean_abs_shap": 1.3378775698456167
+          "mean_abs_shap": 1.3887794074604916
         },
         {
           "feature": "kd_health_deaths_child_population_age_mean",
-          "mean_abs_shap": 0.7423057024616633
-        },
-        {
-          "feature": "kd_health_hospital_asthma_mean",
-          "mean_abs_shap": 0.7240199950172157
+          "mean_abs_shap": 0.7768588359506609
         },
         {
           "feature": "pct_frl",
-          "mean_abs_shap": 0.7064867642539395
+          "mean_abs_shap": 0.7356062776965266
+        },
+        {
+          "feature": "kd_health_hospital_asthma_mean",
+          "mean_abs_shap": 0.7314528885873751
         },
         {
           "feature": "kidsdata_school_safety_school_climate_mean",
-          "mean_abs_shap": 0.24873352510191107
+          "mean_abs_shap": 0.14486089720977144
         }
       ]
     },
@@ -293,43 +293,43 @@
       "top10": [
         {
           "feature": "enrollment",
-          "mean_abs_shap": 4.4743981121624525
+          "mean_abs_shap": 4.48565580214504
         },
         {
           "feature": "kd_health_deaths_child_population_age_mean",
-          "mean_abs_shap": 2.7060657962805537
+          "mean_abs_shap": 2.7180765740396717
         },
         {
           "feature": "census_saipe_pop_5_17",
-          "mean_abs_shap": 2.1884920233183336
+          "mean_abs_shap": 2.240562321421736
         },
         {
           "feature": "pct_frl",
-          "mean_abs_shap": 1.7454579556181127
+          "mean_abs_shap": 1.6863704436225238
         },
         {
           "feature": "bea_gdp_total",
-          "mean_abs_shap": 1.3982464686825704
+          "mean_abs_shap": 1.3417841376130313
         },
         {
           "feature": "census_saipe_n_poverty",
-          "mean_abs_shap": 0.7036429941345801
+          "mean_abs_shap": 0.7795507805834025
         },
         {
           "feature": "kd_econ_homeless_wic_participant_mean",
-          "mean_abs_shap": 0.6246274392080926
+          "mean_abs_shap": 0.6749146528677396
         },
         {
           "feature": "census_acs5_median_household_income",
-          "mean_abs_shap": 0.6165213194711019
+          "mean_abs_shap": 0.5564652588403536
         },
         {
           "feature": "kd_health_hospital_asthma_mean",
-          "mean_abs_shap": 0.548496454357622
+          "mean_abs_shap": 0.5407595675026752
         },
         {
           "feature": "kidsdata_school_safety_school_climate_mean",
-          "mean_abs_shap": 0.34251440743781403
+          "mean_abs_shap": 0.33794661120596625
         }
       ]
     },
@@ -340,43 +340,43 @@
       "top10": [
         {
           "feature": "pct_frl",
-          "mean_abs_shap": 15.151115435591043
+          "mean_abs_shap": 15.182856409675122
         },
         {
           "feature": "enrollment",
-          "mean_abs_shap": 3.108381536312278
+          "mean_abs_shap": 3.205553173150444
         },
         {
           "feature": "census_acs5_median_household_income",
-          "mean_abs_shap": 2.545525415936329
+          "mean_abs_shap": 2.4922559416237062
         },
         {
           "feature": "bea_gdp_total",
-          "mean_abs_shap": 0.9093818334905585
+          "mean_abs_shap": 0.9544050828537503
         },
         {
           "feature": "census_saipe_pop_5_17",
-          "mean_abs_shap": 0.708352946050322
+          "mean_abs_shap": 0.6968469536197233
         },
         {
           "feature": "kd_econ_homeless_wic_participant_mean",
-          "mean_abs_shap": 0.37237126500761636
+          "mean_abs_shap": 0.4571592567629115
         },
         {
           "feature": "census_saipe_n_poverty",
-          "mean_abs_shap": 0.27229366086512913
+          "mean_abs_shap": 0.3668355526120962
         },
         {
           "feature": "kidsdata_school_safety_school_climate_mean",
-          "mean_abs_shap": 0.26184662014505605
-        },
-        {
-          "feature": "kd_health_hospital_asthma_mean",
-          "mean_abs_shap": 0.1525262638730766
+          "mean_abs_shap": 0.23122636248249204
         },
         {
           "feature": "kd_health_deaths_child_population_age_mean",
-          "mean_abs_shap": 0.13599480927687127
+          "mean_abs_shap": 0.12955228144719347
+        },
+        {
+          "feature": "kd_health_injury_youth_suicide_and_self_inflicted_injury_mean",
+          "mean_abs_shap": 0.09068917913371274
         }
       ]
     },
@@ -387,90 +387,90 @@
       "top10": [
         {
           "feature": "pct_frl",
-          "mean_abs_shap": 9.242796872171
+          "mean_abs_shap": 9.321891480731836
         },
         {
           "feature": "census_saipe_n_poverty",
-          "mean_abs_shap": 2.867609039626507
+          "mean_abs_shap": 2.772320341488008
         },
         {
           "feature": "enrollment",
-          "mean_abs_shap": 2.2164976658791047
+          "mean_abs_shap": 2.20222881618661
         },
         {
           "feature": "kd_health_hospital_asthma_mean",
-          "mean_abs_shap": 1.9069872795266558
+          "mean_abs_shap": 1.9274004156745366
         },
         {
           "feature": "kidsdata_school_safety_school_climate_mean",
-          "mean_abs_shap": 1.6632966134783533
+          "mean_abs_shap": 1.7767482916620405
         },
         {
           "feature": "census_saipe_pop_5_17",
-          "mean_abs_shap": 0.9986568024071893
+          "mean_abs_shap": 0.9725935803766579
         },
         {
           "feature": "census_acs5_median_household_income",
-          "mean_abs_shap": 0.5368837959843381
+          "mean_abs_shap": 0.5933797524097132
         },
         {
           "feature": "kd_health_deaths_child_population_age_mean",
-          "mean_abs_shap": 0.2935634163394783
+          "mean_abs_shap": 0.33758776526719825
+        },
+        {
+          "feature": "kd_econ_unemploy_wic_participant_mean",
+          "mean_abs_shap": 0.14319457380748873
         },
         {
           "feature": "kd_econ_homeless_wic_participant_mean",
-          "mean_abs_shap": 0.15258307217900507
-        },
-        {
-          "feature": "bea_gdp_total",
-          "mean_abs_shap": 0.14963208528045124
+          "mean_abs_shap": 0.13232755910820918
         }
       ]
     },
     "archetype_4": {
       "n_districts": 46,
       "n_observations": 341,
-      "shap_seconds": 0.4,
+      "shap_seconds": 0.3,
       "top10": [
         {
           "feature": "pct_frl",
-          "mean_abs_shap": 5.103260255945215
+          "mean_abs_shap": 5.066645622908355
         },
         {
           "feature": "census_saipe_n_poverty",
-          "mean_abs_shap": 2.968154324115911
+          "mean_abs_shap": 3.0195830003853246
         },
         {
           "feature": "census_acs5_median_household_income",
-          "mean_abs_shap": 2.6315282678345002
+          "mean_abs_shap": 2.6788050871644233
         },
         {
           "feature": "kd_econ_homeless_wic_participant_mean",
-          "mean_abs_shap": 1.8065261213175492
+          "mean_abs_shap": 1.8464513148022559
         },
         {
           "feature": "kd_health_hospital_asthma_mean",
-          "mean_abs_shap": 1.5781560685960505
+          "mean_abs_shap": 1.561208614793596
         },
         {
           "feature": "census_saipe_pop_5_17",
-          "mean_abs_shap": 1.1552088550004118
+          "mean_abs_shap": 1.087201159385009
         },
         {
           "feature": "kd_health_deaths_child_population_age_mean",
-          "mean_abs_shap": 0.6097699627225096
+          "mean_abs_shap": 0.5716950022706729
         },
         {
           "feature": "bea_gdp_total",
-          "mean_abs_shap": 0.41778305501861573
+          "mean_abs_shap": 0.4125435187410367
         },
         {
           "feature": "enrollment",
-          "mean_abs_shap": 0.3668156339095992
+          "mean_abs_shap": 0.38895429047473074
         },
         {
           "feature": "kidsdata_school_safety_school_climate_mean",
-          "mean_abs_shap": 0.24123873682795777
+          "mean_abs_shap": 0.1841521563151011
         }
       ]
     }

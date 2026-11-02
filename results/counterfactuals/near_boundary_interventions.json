@@ -13,7 +13,7 @@
     "l2_penalty": 0.01,
     "objective": "maximise post-rollout L2 from current centroid; minimise \u2016a\u2016\u00b2 as a soft constraint"
   },
-  "elapsed_seconds": 8.9,
+  "elapsed_seconds": 7.5,
   "districts": [
     {
       "cds": "05-61556-0000000",

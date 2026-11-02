@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T19:16:20.590164+00:00",
+  "generated_at": "2026-05-15T19:24:48.271620+00:00",
   "fast": true,
   "errors": {},
   "causal_forest": {
     "math_mean_cate": -15.887478211508816,
-    "math_blp_f": 55.20500037563456,
-    "math_blp_r2": 0.5744238089575061
+    "math_blp_f": 55.20500037563452,
+    "math_blp_r2": 0.5744238089575059
   },
   "double_ml": {
     "dml_coef": -3.054130548096187,
@@ -26,9 +26,9 @@
     "mean_predicted_gain": 0.9999239206314087
   },
   "bma": {
-    "posterior_mean": -10.21427538896296,
+    "posterior_mean": -10.214275388962959,
     "posterior_hdi": [
-      -11.457617805712298,
+      -11.457617805712292,
       -8.90103156883621
     ],
     "anchor_should_update": true

@@ -7,13 +7,13 @@
       "mean_cate": -15.887478211508816,
       "cate_std": 11.244474999925945,
       "cate_quartiles": {
-        "q1": -22.209496783697034,
+        "q1": -22.20949678369709,
         "q2": -14.536763795282159,
-        "q3": -8.035544583365237,
+        "q3": -8.035544583365203,
         "q4": 9.861428647529678
       },
-      "blp_f_stat": 55.20500037563456,
-      "blp_r2": 0.5744238089575061,
+      "blp_f_stat": 55.20500037563452,
+      "blp_r2": 0.5744238089575059,
       "archetype_by_quartile": {
         "q1": {
           "a0": 3,
@@ -45,7 +45,7 @@
         }
       },
       "n_estimators": 80,
-      "fit_seconds": 0.4,
+      "fit_seconds": 0.2,
       "x_cols": [
         "bea_gdp_total",
         "kd_health_injury_youth_suicide_and_self_inflicted_injury_mean",
@@ -83,16 +83,16 @@
       "outcome": "caaspp_ela_met_pct",
       "n_observations": 1259,
       "n_districts": 178,
-      "mean_cate": -13.797601355441474,
-      "cate_std": 8.799728384542927,
+      "mean_cate": -13.797601355441476,
+      "cate_std": 8.79972838454293,
       "cate_quartiles": {
-        "q1": -19.293382261324304,
-        "q2": -14.007581348655165,
+        "q1": -19.293382261324417,
+        "q2": -14.00758134865518,
         "q3": -7.31154750378834,
-        "q4": 8.023166743027005
+        "q4": 8.023166743026962
       },
-      "blp_f_stat": 72.21163117483945,
-      "blp_r2": 0.638222226581046,
+      "blp_f_stat": 72.21163117483951,
+      "blp_r2": 0.6382222265810461,
       "archetype_by_quartile": {
         "q1": {
           "a0": 7,
@@ -124,7 +124,7 @@
         }
       },
       "n_estimators": 80,
-      "fit_seconds": 0.4,
+      "fit_seconds": 0.1,
       "x_cols": [
         "bea_gdp_total",
         "kd_health_injury_youth_suicide_and_self_inflicted_injury_mean",
